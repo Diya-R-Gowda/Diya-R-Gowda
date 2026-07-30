@@ -1,173 +1,138 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There,%20I'm%20Diya%20R%20Gowda&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Building%20things%20that%20matter,%20one%20commit%20at%20a%20time&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=DIYA%20R%20GOWDA&fontSize=60&fontColor=00F5FF&fontAlignY=42&animation=twinkling&desc=Building%20intelligent%20systems%20%7C%20AI%20%2F%20Multi-Agent%20%2F%20Full-Stack&descAlignY=62&descSize=17&descColor=B983FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=E36209&center=true&vCenter=true&width=750&height=50&lines=AI+%26+Multi-Agent+Systems+Enthusiast;Design-Conscious+Full-Stack+Developer;Building+RAG+Pipelines+%26+Cloud-Native+Apps;Currently%3A+3rd+Year+CSE+%40+PES+University" alt="Typing SVG" />
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=900&color=00F5FF&center=true&vCenter=true&width=800&height=45&lines=%3E+initializing+diya.dev...;%3E+loading+multi-agent+systems...;%3E+compiling+full-stack+applications...;%3E+status%3A+shipping+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/CSE-3RD%20YEAR-B983FF?style=for-the-badge&labelColor=0f0c29" />
+<img src="https://img.shields.io/badge/UNIVERSITY-PES-FF2E88?style=for-the-badge&labelColor=0f0c29" />
 
 </div>
 
 <br>
 
-## 🚀 About Me
+## `01` &nbsp;// SYSTEM.PROFILE
 
-```yaml
-current_year:        3rd Year, B.Tech Computer Science Engineering @ PES University
-learning:             Advanced JavaScript & Python, full-stack app architecture
-collaborating_on:    AI & Multi-Agent Systems, design-conscious dev projects
-currently_building:  Autonomous repository comprehension agent
-                      AI-powered supplier risk platform
-exploring:            LLMs · RAG · Docker · TypeScript · React · Express · MongoDB
-philosophy:           "Ship and deploy open source projects that solve real problems"
-ask_me_about:         LLM pipelines, cloud-native dev, multi-agent architectures
+```python
+class Diya:
+    def __init__(self):
+        self.role         = "CS Undergrad · AI & Multi-Agent Systems Enthusiast"
+        self.university   = "PES University — B.Tech CSE, 2024-2028"
+        self.focus        = ["LLMs", "RAG Pipelines", "Multi-Agent Architectures", "Full-Stack Dev"]
+        self.currently    = "Building an autonomous repo-comprehension agent + AI supplier-risk platform"
+        self.stack        = ["Python", "JavaScript/TS", "React", "FastAPI", "Docker", "MongoDB"]
+        self.mission      = "Ship real software that solves real problems."
+
+    def collaborate(self):
+        return "Open to AI/ML, backend, and research-driven collaborations 🤝"
+
+me = Diya()
 ```
 
 <br>
 
-## 🛠️ Tech Stack
+## `02` &nbsp;// TECH.STACK
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+<div align="center">
 
 **Languages**
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-<img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-
-</td>
-<td valign="top" width="50%">
+<br>
+<img src="https://skillicons.dev/icons?i=js,ts,py,java,cpp,c,go,rust,ruby,php,kotlin&theme=dark" />
 
 **Frontend**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+<br>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,redux&theme=dark" />
 
 **Backend & Frameworks**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-
-</td>
-<td valign="top" width="50%">
+<br>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,django,nodejs,express,dotnet&theme=dark" />
 
 **AI / ML / Data**
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+<br>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
 
 **Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis,dynamodb&theme=dark" />
 
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-<img src="https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white" alt="DynamoDB" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-
-</td>
-<td valign="top" width="50%">
-
-**Cloud & DevOps**
-
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-
-</td>
-<td valign="top" width="50%">
+**Cloud, DevOps & Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,githubactions,vercel,git,github,gitlab,vscode,linux&theme=dark" />
 
 **Design & Collaboration**
-
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-
-</td>
-</tr>
-</table>
-
 <br>
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/diya-r-gowda-ab2394376/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://instagram.com/diyagowda_p.aw0627" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="mailto:diyagowda1427@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<img src="https://skillicons.dev/icons?i=figma,notion&theme=dark" />
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## `03` &nbsp;// FEATURED.PROJECTS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Diya-R-Gowda&show_icons=true&theme=tokyonight&title_color=e36209&icon_color=e36209&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Diya-R-Gowda&layout=compact&theme=tokyonight&title_color=e36209&icon_color=e36209&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+<a href="https://github.com/Diya-R-Gowda/REPO-NAME-1">
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Diya-R-Gowda&repo=REPO-NAME-1&theme=tokyonight&border_color=00F5FF&bg_color=0d1117&title_color=00F5FF&icon_color=B983FF" />
+</a>
+<a href="https://github.com/Diya-R-Gowda/REPO-NAME-2">
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Diya-R-Gowda&repo=REPO-NAME-2&theme=tokyonight&border_color=00F5FF&bg_color=0d1117&title_color=00F5FF&icon_color=B983FF" />
+</a>
+<br>
+<a href="https://github.com/Diya-R-Gowda/REPO-NAME-3">
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Diya-R-Gowda&repo=REPO-NAME-3&theme=tokyonight&border_color=00F5FF&bg_color=0d1117&title_color=00F5FF&icon_color=B983FF" />
+</a>
+<a href="https://github.com/Diya-R-Gowda/REPO-NAME-4">
+  <img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=Diya-R-Gowda&repo=REPO-NAME-4&theme=tokyonight&border_color=00F5FF&bg_color=0d1117&title_color=00F5FF&icon_color=B983FF" />
+</a>
 
 </div>
 
-## 📈 Contribution Graph
+> 💡 **Swap `REPO-NAME-1..4` above** with your actual repo slugs (e.g. `InSureWell`, `Omni-AI`) — these cards auto-pull live stars, forks, and language from GitHub, so recruiters see real, current numbers instead of a static screenshot.
+
+<br>
+
+## `04` &nbsp;// ANALYTICS.DASHBOARD
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Diya-R-Gowda&bg_color=00000000&color=e36209&line=e36209&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Diya-R-Gowda&show_icons=true&theme=tokyonight&border_color=00F5FF&bg_color=0d1117&title_color=00F5FF&icon_color=B983FF&count_private=true" />
+<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Diya-R-Gowda&layout=compact&theme=tokyonight&border_color=00F5FF&bg_color=0d1117&title_color=00F5FF&langs_count=8" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Diya-R-Gowda&theme=tokyonight&border=00F5FF&background=0D1117&ring=B983FF&fire=FF2E88&currStreakLabel=00F5FF" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Diya-R-Gowda&theme=react-dark&bg_color=0D1117&color=00F5FF&line=B983FF&point=FF2E88&hide_border=true&area=true" />
 
 </div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="footer wave" width="100%"/>
+## `05` &nbsp;// CONNECT
 
-<p align="center"><i>⭐️ From <a href="https://github.com/Diya-R-Gowda">Diya-R-Gowda</a></i></p>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/diya-r-gowda-ab2394376/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5FF" /></a>
+<a href="https://instagram.com/diyagowda_p.aw0627" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF2E88" /></a>
+<a href="mailto:diyagowda1427@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=B983FF" /></a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Diya-R-Gowda&label=PROFILE+VIEWS&color=0f0c29&style=for-the-badge&labelColor=00F5FF" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+
+<p align="center"><sub>⚡ compiled with ambition · <a href="https://github.com/Diya-R-Gowda">@Diya-R-Gowda</a></sub></p>
