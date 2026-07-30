@@ -9,7 +9,7 @@
 <br><br>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-FF8C00?style=for-the-badge&labelColor=1a0f00" />
-<img src="https://img.shields.io/badge/CSE,B.Tech-3RD%20YEAR-FFB347?style=for-the-badge&labelColor=1a0f00" />
+<img src="https://img.shields.io/badge/CSE, B.Tech-3RD%20YEAR-FFB347?style=for-the-badge&labelColor=1a0f00" />
 <img src="https://img.shields.io/badge/UNIVERSITY-PES-FF6B00?style=for-the-badge&labelColor=1a0f00" />
 
 </div>
