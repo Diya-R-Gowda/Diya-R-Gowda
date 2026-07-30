@@ -85,31 +85,11 @@ me = Diya()
 
 <br>
 
-## `03` &nbsp;// ANALYTICS.DASHBOARD
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=Diya-R-Gowda&show_icons=true&theme=tokyonight&border_color=FF8C00&bg_color=0d1117&title_color=FF8C00&icon_color=FFB347&count_private=true" />
-<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=Diya-R-Gowda&layout=compact&theme=tokyonight&border_color=FF8C00&bg_color=0d1117&title_color=FF8C00&langs_count=8" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Diya-R-Gowda&theme=tokyonight&border=FF8C00&background=0D1117&ring=FFB347&fire=FF6B00&currStreakLabel=FF8C00" />
-
-<br><br>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Diya-R-Gowda&theme=react-dark&bg_color=0D1117&color=FF8C00&line=FFB347&point=FF6B00&hide_border=true&area=true" />
-
-</div>
-
-<br>
-
 ## `04` &nbsp;// CONNECT
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/diya-r-gowda-ab2394376/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF8C00" /></a>
-<a href="https://instagram.com/diyagowda_p.aw0627" target="_blank"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FF8C00" /></a>
 <a href="mailto:diyagowda1427@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=FF8C00" /></a>
 
 <br><br>
